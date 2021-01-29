@@ -75,7 +75,7 @@
   bottom: 0;
   right: 15px;
   z-index: 2;
-  animation: dune 1.8s infinite linear;
+  animation: dune 3s infinite linear;
 }
 
 #dune::before {
